@@ -33,7 +33,7 @@
 
 ### Clone the Repository
 ```bashS
-git clone https://github.com/<your-username>/HealthEquityForecaster.git
+git clone https://github.com/Ayushharisinghani2006/HealthEquityForecaster.git
 
 1. Create a virtual environment: `python -m venv venv`
 2. Activate it: `venv\Scripts\activate`
@@ -51,6 +51,3 @@ git clone https://github.com/<your-username>/HealthEquityForecaster.git
 
 ## Social Impact
 This app addresses healthcare disparities by identifying underserved regions and providing data-driven recommendations for clinic deployment, aiming to improve access to healthcare services in high-risk areas.
-=======
-# Health-Equity-Forecaster
->>>>>>> b75cf9319fe0d83e3d9e11255a014902ae1fbdf7
