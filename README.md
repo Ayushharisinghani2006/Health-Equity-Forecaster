@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Health Equity Forecaster 🏥
 
 **Health Equity Forecaster** is a data-driven web application designed to address healthcare disparities by identifying regions with limited healthcare access. Built for a hackathon, this app leverages machine learning, clustering, anomaly detection, and explainability techniques to provide actionable insights for policymakers and healthcare organizations. The app is optimized for fast loading using precomputed data and offers an interactive interface for exploring healthcare equity metrics, visualizations, and recommendations.
